@@ -47,10 +47,10 @@
 ---
 
 ### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight)
+https://github-readme-stats.vercel.app/api?username=Mallesh-5577&show_icons=true&theme=tokyonight
 
 ### 🏆 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mallesh-5577&theme=tokyonight)
 
 ---
 
