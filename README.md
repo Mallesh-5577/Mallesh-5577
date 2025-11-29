@@ -46,10 +46,7 @@
 
 ---
 
-### 📈 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=Mallesh-5577&show_icons=true&theme=tokyonight
-
-### 🏆 GitHub Streak
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mallesh-5577&theme=tokyonight)
 
 ---
