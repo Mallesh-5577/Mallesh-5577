@@ -30,8 +30,7 @@
 - VS Code
 - Streamlit
 - Figma
-- 
-
+  
 ---
 
 ### 🔥 Projects
@@ -45,6 +44,24 @@
 - Email: malleshmudavath12345@gmail.com
 
 ---
+## 📜 Certifications & Achievements
+
+Here are some of the certifications I’ve earned through continuous learning and practice:
+
+- ✅ Freedom with AI Masterclass  
+- ✅ Bootstrap CSS Bootcamp  
+- ✅ Brainic’s Career Guidance Workshop  
+- ✅ 30 Days Full Stack Development MasterClass (NoviTech R&D)  
+- ✅ Python Fundamentals (Great Learning)  
+- ✅ 4-week AI Internship (VISWAM.AI & Swecha Telangana)  
+- ✅ Python Workshop (Quality Thought)
+
+---
+
+## 🎯 Career Objective
+To become a Skilled Full Stack Developer & AI Engineer and contribute to innovative technology projects.
+
+---
 
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mallesh-5577&theme=tokyonight)
@@ -53,3 +70,6 @@
 
 ### ⚡ Fun Fact
 "I believe in learning by building real projects 🚀"
+
+---
+⭐ Thank you for visiting my GitHub profile!
