@@ -62,14 +62,4 @@ Here are some of the certifications I’ve earned through continuous learning an
 To become a Skilled Full Stack Developer & AI Engineer and contribute to innovative technology projects.
 
 ---
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mallesh-5577&theme=tokyonight)
-
----
-
-### ⚡ Fun Fact
-"I believe in learning by building real projects 🚀"
-
----
 ⭐ Thank you for visiting my GitHub profile!
