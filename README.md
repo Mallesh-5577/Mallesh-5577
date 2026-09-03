@@ -20,12 +20,12 @@
 ---
 
 ### About Me
-- Pursuing B.Tech in Artificial Intelligence & Machine Learning, J.B. Institute of Engineering and Technology, Hyderabad (2023–2026)
+- B.Tech in Artificial Intelligence & Machine Learning, J.B. Institute of Engineering and Technology, Hyderabad (2023–2026)
 - Front-End Developer with hands-on internship & project experience
 - Currently strengthening backend & full-stack skills
 - Interested building real-world web applications
 - Enjoy collaborating on team projects using Git & GitHub workflows
-- Love outdoor games, 🎵 music, and learning new things
+- Love outdoor games, music, and learning new things
 
 ---
 
