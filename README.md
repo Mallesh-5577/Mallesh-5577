@@ -73,15 +73,8 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mallesh-5577&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mallesh-5577&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Mallesh-5577&theme=tokyonight&hide_border=true" alt="Mallesh's GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mallesh-5577&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### Education
 | Degree | Institution | Score | Years |
